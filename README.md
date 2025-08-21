@@ -1,4 +1,4 @@
-ESP32-Motion-Alert-System 🚨
+# ESP32-Motion-Alert-System 🚨
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-Compatible-blue)](https://platformio.org/)
