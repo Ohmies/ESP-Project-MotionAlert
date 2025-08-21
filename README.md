@@ -577,7 +577,7 @@ curl -X POST https://api.line.me/v2/bot/message/push \
 
 **📅 Last Updated:** January 2025  
 **🔢 Version:** 2.0.0  
-**👨‍💻 Maintainer:** [Your Name](https://github.com/yourusername)
+**👨‍💻 Maintainer:** [ohmies](https://github.com/ohmies)
 
 </div>
 
